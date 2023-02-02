@@ -27,3 +27,4 @@ Statistics.propTypes = {
   total: PropTypes.number.isRequired,
   positivePercentage: PropTypes.number.isRequired,
 };
+
