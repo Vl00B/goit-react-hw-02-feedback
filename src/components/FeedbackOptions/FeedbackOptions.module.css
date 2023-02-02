@@ -1,0 +1,7 @@
+.feedback_list {
+  display: flex;
+}
+
+.option {
+  padding-right: 10px;
+}

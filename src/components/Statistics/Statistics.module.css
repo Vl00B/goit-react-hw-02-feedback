@@ -1,0 +1,10 @@
+.options {
+  display: flex;
+  padding: 10px 0;
+}
+
+.options li {
+  padding: 10px 5px;
+  border: 1px black solid;
+  margin-right: 10px;
+}
