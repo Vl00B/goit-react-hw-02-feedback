@@ -1,5 +1,4 @@
 import { Component } from 'react';
-import PropTypes from 'prop-types';
 
 import { FeedbackOptions } from './FeedbackOptions/FeedbackOptions';
 import { Section } from './Section/Section';
@@ -61,7 +60,3 @@ export class App extends Component {
     );
   }
 }
-
-App.propType = {
-  options: PropTypes.arrayOf(PropTypes.string).isRequired,
-};
